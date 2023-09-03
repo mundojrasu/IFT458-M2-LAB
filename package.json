@@ -1,0 +1,11 @@
+{
+  "name": "ift458-m2-lab",
+  "version": "1.0.0",
+  "description": "Our First Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edmundo Mendez, Jr.",
+  "license": "ISC"
+}
